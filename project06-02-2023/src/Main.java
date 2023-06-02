@@ -16,5 +16,9 @@ public class Main {
         x.setPrice(250.3);
         System.out.println(x.getPrice());
         System.out.println(x.getPrice(quantity));
+
+        //Runtime Polymorphism
+        poly y= new poly();
+        y.shape();
     }
 }
