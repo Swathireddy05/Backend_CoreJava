@@ -1,3 +1,3 @@
-abstract public class Department {
+public abstract class Department {
     public abstract int getDepartmenSize();
 }
