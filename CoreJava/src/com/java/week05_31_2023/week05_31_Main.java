@@ -2,7 +2,7 @@ package com.java.week05_31_2023;
 
 import java.util.Scanner;
 
-public class week05_Main {
+public class week05_31_Main {
     public static void main(String[] args) {
 
         //Department size
