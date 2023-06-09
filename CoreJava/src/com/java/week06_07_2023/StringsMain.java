@@ -5,7 +5,6 @@ import java.util.Scanner;
 public class StringsMain {
     public static void main(String[] args){
         Scanner sc=new Scanner(System.in);
-        String name=sc.next();
 
         //Checking for anagram
         Anagram a=new Anagram();
