@@ -5,15 +5,16 @@ public class StringintoInt {
         try{
             int i=Integer.parseInt(str);
             System.out.println(i);
-            System.out.println("Inside try Block");
-        }
-        catch(Exception e){
-            System.out.println("Inside the catch");
         }
 
+        catch(Exception e){
+            System.out.println("This is Exception");
+        }
     }
-    public static void main(String[] args){
-        String str="23";
-        //StringintoInt("45.67");
+    public static void main(String[] args) {
+        StringintoInt("23");
+        StringintoInt("45.67");
+        StringintoInt("test");
+        StringintoInt("123f");
     }
 }
