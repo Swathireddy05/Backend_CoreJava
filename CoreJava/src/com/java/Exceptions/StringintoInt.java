@@ -8,7 +8,7 @@ public class StringintoInt {
         }
 
         catch(Exception e){
-            System.out.println("This is Exception");
+            System.out.println("This is Exception ");
         }
     }
     public static void main(String[] args) {
