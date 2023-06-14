@@ -1,4 +1,4 @@
-package com.java.week06_05_2023.conditionalStatements;
+package com.java.conditionalStatements;
 
 public class fizzBuzz {
     public void checkNum(int N){
