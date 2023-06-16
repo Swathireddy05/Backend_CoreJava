@@ -4,6 +4,7 @@ public class TicketBooking {
     public int availableTickets;
 
     public TicketBooking(int totalTickets) {
+
         this.availableTickets = totalTickets;
     }
 
