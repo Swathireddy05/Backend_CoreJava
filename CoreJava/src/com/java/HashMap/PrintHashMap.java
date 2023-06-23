@@ -33,9 +33,5 @@ public class PrintHashMap {
         //3.Using entry set
         System.out.println("\n HashMap Entries (using entrySet):");
         System.out.println("The set is: " + student.entrySet());
-
-
-
-
     }
 }
