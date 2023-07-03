@@ -1,9 +1,6 @@
 package com.java.HashMap;
-
-
 import java.util.HashSet;
 import java.util.Iterator;
-
 public class PrintHashset {
     public static void main(String[] args) {
         HashSet<String> hset=new HashSet<String>();
